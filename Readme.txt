@@ -6,3 +6,4 @@ Added new line
 Updated the file
 new line
 new commit
+added new line
